@@ -1,0 +1,19 @@
+.product-page {
+  display: flex;
+  justify-content: center;
+  margin: 50px 0 30% 0;
+}
+.product-detail {
+  margin-left: 50px;
+}
+
+.product-detail h3 {
+  text-align: left;
+}
+.order-button {
+  border: 2px solid gray;
+  font-size: 32px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+

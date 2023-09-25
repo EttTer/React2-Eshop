@@ -1,0 +1,36 @@
+.items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.picture {
+  max-width: 300px;
+  margin: 10px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+h1 {
+  font-size: 82px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  text-align: center;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 32px;
+  text-align: center;
+  font-weight: 500;
+}
